@@ -1,0 +1,22 @@
+Welcome page
+http://falcon.acadiau.ca/~122593l/Assignment%206/welcome.php
+
+Main Page
+http://falcon.acadiau.ca/~122593l/Assignment%206/main.php
+
+report Page 
+http://falcon.acadiau.ca/~122593l/Assignment%206/report.php
+
+Add / Edit
+http://falcon.acadiau.ca/~122593l/Assignment%206/add.php
+
+
+log in using 
+
+username: root
+password: ""   (no password)
+
+or
+
+username: jamie
+password: jamie
